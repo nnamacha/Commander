@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namacha.Commander", "Namacha.Commander.csproj", "{B8EF729A-8DF9-4B5E-97FE-3B53CD2FEA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8EF729A-8DF9-4B5E-97FE-3B53CD2FEA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EF729A-8DF9-4B5E-97FE-3B53CD2FEA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EF729A-8DF9-4B5E-97FE-3B53CD2FEA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EF729A-8DF9-4B5E-97FE-3B53CD2FEA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63901BFC-830C-42D3-97E7-D79FD3E6F0A2}
+	EndGlobalSection
+EndGlobal
